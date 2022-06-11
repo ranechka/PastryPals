@@ -4,21 +4,68 @@
 A space for the cities, people, items, and lore.
 Plus, a searchable index to coordinate them all.
 
-## Geography
- 
-
-
-## People
-
-
-
-## Lore
+# Geography
+## Arden
+Argentine Island - Home to a temple for Selune, and an orphanage of Latakos
+Oberlin Theater - Base of the Whispered Ones
+Golden Chantry - Sunsinger Center in Arden, Main office of Sephyros Apollus
 
 
 
-## Items
+## Brana
+The Flying Boar
+
+## M'Kun
+Firefly Inn (in Serendil) - Run by Anne Bertrand, who seems to have some connection to Latakos
+Iron Dragon (Magic shop) - Run by Michel, a French Water Genasi man
+
+## Woestyn
+Church of Sol - Office of a Sophist Peren (Hobgoblin man), who helped us with Amala's last testimony
+Bounty Board Tavern
+Li Sohek (Amala's son)
+
+# People
+Anuli Deratthok - Dyad evocation wizard, wife of Commander Abel. Was inducted into the Asterocracy by Drake Vakarian (Alfred)
+
+
+## Organizations
+### Asterocracy
+
+### Sunsingers
+Wymar Alips - High Priest of Occultism
+
+
+### The Whispered Ones
+Organization throughout Raksasa with a symbol of three crossed daggers pointing downward. Generally pushing Nightbloom, and are based in the Oberlin establishment in each city.
+Jean's second in command, a blue dragonborn, name unknown (Phillip)
+Arden - Oberlin Theater - Run by Jean, a shapechanger
+Seulo - Sunset Inn? - Run by Fernando
+M'Kun - Oberlin Warehouse and Storage
+Gerenir - Oberlin Library
+
+### The Dyad
+Competitor organization to the Whispered Ones with a symbol of a pair of crossed sickles facing up.
+Also in the drug trade.
+Persons of interest:
+Anuli Deratthok
+
+
+
+
+# Lore
+
+
+
+# World
+## Calendar
+
+## Gods
+Mykrul - God of Undead (Evil)
+
+
+# Items
 ### Pen of Whispers (optional attunement) 
--Can copy anyone’s handwriting as long as the user has seen a moderate sample once (a single signature is not enough unless the user is forging only the signature)
+-Can copy anyone's handwriting as long as the user has seen a moderate sample once (a single signature is not enough unless the user is forging only the signature)
 -Can write incredibly quickly and with perfect penmanship
 When Attuned:
 -Reduces time to copy spells by half (1 hour per level) for up to 5th level spells
@@ -71,7 +118,7 @@ When Attuned:
 - If wielder so chooses, an attack action can consist of 2 attack with the twins, doing so halves proficiency bonus (rounding down),and only one attack adds STR modifier to Hit. Damage remains unchanged.
 - If used at range, the chain returns the hammer to the user after attacking.
 
-### Magical Tattoos:
+### Magical Tattoos (Can be applied by Sylas in Shreden):
 - One person may only have 1 type of tattoo in their body
 - +1 to a stat of your choice (3000gp worth of gem dust)
     +2 to a stat of you choice (8000gp worth of gem dust) 
@@ -80,22 +127,59 @@ When Attuned:
     (Fire=Ruby, Cold=Sapphire, Acid=Emerald, Lightning=Pearl, Thunder=Diamond, Radiant=Opal)
 - Ethereal weapon of choice (1500 gp of silver dust)
 
+### Item Table
+| Item                  | Source                |    User   |
+| --------------------- | --------------------- |:---------:|
+| Cloak of Shapes       | Sephyros              | Abrasax   |
+| Breezeline Scarf      | Sephyros              | Mil       |
+| Pommel of Inner Flame | Sephyros              | Tyll      |
+| Stargazer Compass     | Sephyros              | Isolde    |
+| Flame Scholar         | Sephyros              | Firen     |
+| Pen of Whispers       | Jean's Villa          | Firen     |
+| Jawbreaker            | Luke's Stamp Shop     | Isolde    |
+| Misty Sword           | Anuli (Sleeping Cub)  | Firen     |
+| Crimson Bracers       | Smiling Hag Shop      | Isolde    |
+| Mind Knife            | Doctor's office (Sihiruma)| Firen |
+| Amulet of Sustenance  | Lutece's Cave         | Mil       |
+| Cloak of the Evoker   | Shinru (Lajio tower)  | Phinneas  |
+| Band of Rot           | Lajio tower           | Isolde    |
+
 
 
 # Session Summaries
 ### Session 0.5 - 10
+14th of the Thrilling month, 504 PA
 Magic Team met in Seulo, fought the beginnings of the Whispered Ones, and set out for Arden.
-We arrived in Arden, Brother Mil and Tyll told us about kidnapped children. Abrasax found us a job clearing out the Whispered Ones' Villa in the south of Arden, which was overrun by the Dyad.
+We arrived in Arden, Brother Mil and Tyll told us about kidnapped children. We met Jean, the leader of the Whispered Ones there, and Abrasax found us a job clearing out their Villa in the south of Arden, which was overrun by the Dyad. We found weird necromancy circles and runes in an unknown language (later revealed to be Ancestral). We also first heard about missing children through posters.
+Met Sephyros Apollus in Arden to show him the Ancestral runes, and he went with us on our journey to M'Kun. On the way, we met Fritz, an Occultatum wizard, just trying to find his way through the desert, looking for a tomb? or rune.
+We stopped on our way to M'Kun in Woestyn, found a bounty board, and found a ghost (Amala) that has been haunting a farm and city. Abrasax starts exploring his psychic abilities, by connecting with the ghost. We defeated the ghost, found her child, claimed some loot, and went back to the inn. There, Seph was gone, and he left us our starting items.
+On our way to M'Kun, we found a farm overrun by mummies raised my a twisted version of Danse Macabre, an outlawed spell used to raise dead, seemingly in a ritual for Mykrul. [Could be for Malphyos Shinru?]
+Once there, we were hired by the Whispered Ones again, this time to go disable a Dyad boat (Dunerak) in the bay. We looked around the city to find Drake Vakarian, someone from Abrasax's history, who is a smuggler and may know about the missing children. Fought through the boat, Tyll died, and we found tied TP circle portals to (somewhere near) Arden, the Great Mesa, and Koradun.
+Firen met Valanthe Celethril in the city, while the rest went to talk to Drake. 
+Drake told Abrasax that he's probably looking for the High Priest of Occultism, Wymar Alips. (And a few weeks ago, Seph told Abrasax to find the "Tower where the sun rises").
 
 
-# Just Wizard Stuff
+
+
+# Just Put Upon Wife Stuff
 ## Spells acquired (And how)
 ### Flame Scholar
 - Feather Fall, Chromatic Orb, Burning Hands, Absorb Elements
 - Sephyros' Flame Arrow, Levitate, Flaming Sphere
 - Blink, Fireball
 - Wall of Fire
+### Anuli in Dunerak
+- Gaseous Form
+- Banishment
 
+## Parking Meters
+| What          | City      | Where/With Whom   | Cost/day  | Expiration    |
+| ------------- | --------- | ----------------- | --------- | ------------- |
+| Dave + Potato |
+| The Sophia    | Cliff Port| Thervan Morigauk? | 1 gp      |  
+
+## Firen's Dreams
+11th and 14th of Mystic 504 (start and end of Arcana Occulus) - Dreamed of a meteor breaking into four pieces and falling towards Raksasa, burning.
 
 ## SmartyPants
 
