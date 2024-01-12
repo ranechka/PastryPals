@@ -128,6 +128,7 @@ When Attuned:
 - Ethereal weapon of choice (1500 gp of silver dust)
 
 ### Item Table
+
 | Item                  | Source                |    User   |
 | --------------------- | --------------------- |:---------:|
 | Cloak of Shapes       | Sephyros              | Abrasax   |
